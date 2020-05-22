@@ -1,6 +1,6 @@
 ## Build instructions
 
-###Packages Required
+### Packages Required
 
 * gcc >= 4.4
 * cmake
